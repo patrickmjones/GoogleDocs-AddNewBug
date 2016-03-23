@@ -1,0 +1,12 @@
+//in _locales/en/messages.json:
+{
+  "appName": {
+    "message": "New Bug Row",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Adds a sidebar panel for easily inputting bugs.", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
+

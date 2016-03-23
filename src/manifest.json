@@ -1,0 +1,16 @@
+{
+	"name": "__MSG_appName__",
+	"description": "__MSG_appDesc__",
+	"default_locale": "en",
+	"version" : "4.1",
+	"manifest_version" : 2,
+
+	"icons" : {
+		"128" : "icon-128x128.png"
+	},
+	"api_console_project_id" : "293969588322",
+	"container": ["GOOGLE_DOCUMENT"],
+	"app" : {
+		"background" : {}
+	}
+}
